@@ -4,7 +4,7 @@
 Mechanical & Mechatronics Engineering Focus  
 SolidWorks • MATLAB • Python • PCB Design • System Modeling
 
-**🔍 About Me**
+**🔍 About Me:**
 I’m an engineering student at the University of South Florida with a strong interest in robotics, manufacturing, and rocketry. My work focuses on taking projects from **concept to validated design**, combining CAD, analysis, electronics, and manufacturing considerations.
 
 **🔭 I’m currently working on**
@@ -13,9 +13,7 @@ I’m an engineering student at the University of South Florida with a strong in
 
 **🌱 I’m currently learning**
 - Python for engineering applications (state machines, data handling, automation)  
-- Embedded systems concepts and hardware–software integration  
 - Control logic and system-level thinking for robotics and aerospace applications  
-- Improving design validation through simulation and analysis  
 
 **📫 How to reach me**
 - LinkedIn: https://www.linkedin.com/in/jessie-nwokoye/
