@@ -5,7 +5,7 @@ Mechanical & Mechatronics Engineering Focus
 SolidWorks • MATLAB • Python • PCB Design • System Modeling
 
 ## 🔍 About Me
-I’m an engineering student with a strong interest in robotics, manufacturing, and rocketry. My work focuses on taking projects from **concept to validated design**, combining CAD, analysis, electronics, and manufacturing considerations.
+I’m an engineering student at the University of South Florida with a strong interest in robotics, manufacturing, and rocketry. My work focuses on taking projects from **concept to validated design**, combining CAD, analysis, electronics, and manufacturing considerations.
 
 ## 🧠 Technical Focus Areas
 - Robotics mechanisms and electromechanical systems  
